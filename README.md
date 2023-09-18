@@ -22,7 +22,7 @@ Make sure you have the following prerequisites in place:
    ```
 2. **Navigate to the Project Directory:** Use your terminal or command prompt to navigate to the Hangman project directory.
     ```shell
-    cd Hangman
+    cd HangMan-master
     ```
 3. **Compile the Source Code:** Compile the source code to prepare for gameplay.
     ```shell
