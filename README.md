@@ -18,7 +18,7 @@ Make sure you have the following prerequisites in place:
 
 1. **Clone the Repository:** Start by cloning or downloading this repository to your local machine.
    ```shell
-   git clone https://github.com/your-username/Hangman.git
+   git clone https://github.com/faisal-askani/HangMan.git
    ```
 2. **Navigate to the Project Directory:** Use your terminal or command prompt to navigate to the Hangman project directory.
     ```shell
